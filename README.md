@@ -1,9 +1,10 @@
-This is my solution to the Priceonomics Programming Puzzle, Summer 2012, found
-here: https://github.com/yen223/Priceonomics-Puzzle-Summer-2012.git
+<p>This is my solution to the <a href='https://gist.github.com/3080200'>Priceonomics Programming Puzzle, Summer 2012</a> 
 
 Solution is written for Python 2.7.3.
 
 How to use:
-1. pip install -r requirements.txt
-2. Execute solve_puzzle.py
+<ol>
+<li>pip install -r requirements.txt</li>
+<li>Execute solve_puzzle.py</li>
+</ol>
 
